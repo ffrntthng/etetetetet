@@ -9,3 +9,4 @@ class BruhhhApplication
 fun main(args: Array<String>) {
     runApplication<BruhhhApplication>(*args)
 }
+ ahahhaha
